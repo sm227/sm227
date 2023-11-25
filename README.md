@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://instagram.com/h_ammsm?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 <!--
