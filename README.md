@@ -2,6 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm227&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
