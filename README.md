@@ -18,8 +18,8 @@
 <a target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
 <br>
 <a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
 
 ## Contact
