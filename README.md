@@ -1,42 +1,62 @@
-### Hi there 👋
+<!-- Header -->
+<div align="center">
+  
+  # Hey there, I'm Seungmin 👨‍💻
+  
+  <p align="center">
+    <a href="https://instagram.com/h_ammsm">
+      <img src="https://img.shields.io/badge/-@h__ammsm-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sm227&style=flat-square&color=blue" alt="Profile views"/>
+  </p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm227&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- About Me -->
+## 🚀 About Me
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+Software developer passionate about creating elegant solutions to complex problems.  
+Currently focused on full-stack development and exploring new technologies.
 
+<!-- Tech Stack -->
+## 💻 Tech Stack
 
-## Tech Stack
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<br>
-<a target="_blank"><img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1B?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>
-<br>
-<a target="_blank"><img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/></a>
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Contact
-<a href="https://instagram.com/h_ammsm?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+### Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!--
-**sm227/sm227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sm227&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm227&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sm227&theme=dark&hide_border=false" />
+</div>
+
+<!-- Activity Graph -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm227&theme=react-dark&hide_border=true" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <br>
+  <sub>Built with ❤️ by sm227</sub>
+</div>
