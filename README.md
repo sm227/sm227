@@ -36,24 +36,7 @@ Currently focused on full-stack development and exploring new technologies.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sm227&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sm227&layout=compact&langs_count=6&theme=dark"/>
-</div>
-
-<div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sm227&theme=dark&hide_border=false" />
-</div>
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm227&theme=react-dark&hide_border=true" />
-</div>
 
 <!-- Footer -->
 <div align="center">
